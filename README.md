@@ -1,6 +1,4 @@
-# SerialAudioTrigger
-
-JAComms - Serial Port Audio Trigger
+#JAComms - Serial Port Audio Trigger
 
 DB9
 
