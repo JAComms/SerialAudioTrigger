@@ -1,0 +1,1 @@
+{"com_port": "COM1", "audio_1": "D:/SerialAudioTrigger/Audio/emergency-alert.wav", "audio_2": "D:/SerialAudioTrigger/Audio/sound-alert.wav", "duration_1": "30", "duration_2": "30", "volume_1": 100, "volume_2": 100, "loop_1": true, "loop_2": true, "auto_start": true}
